@@ -8,17 +8,22 @@ Clone the repository:
 
 
 git clone <your-repo-url>
+
 cd express-csv-generator
+
 Install dependencies:
 
 
 npm install
+
 Start the server:
 
 node server.js
+
 Test the endpoint: Open your browser or use Postman to visit:
 
 http://localhost:3000/generate-csv
+
 Check the generated CSV file:
 
 The file will be located in output/output.csv.
